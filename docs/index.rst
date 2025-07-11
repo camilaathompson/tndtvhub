@@ -1,10 +1,9 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://tek.chat/">
+
 How to Contact TND TV?: Your Complete Guide 😊
 ============================================
-.
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
 If you're looking for how to contact TND TV, you're in the right place! This guide covers everything: email, phone, social media, website forms, office visits—and even tips to get faster responses.
 
